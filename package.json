@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/caroltn/employee-managment-system/issues"
   },
-  "homepage": "https://github.com/caroltn/employee-managment-system#readme"
+  "homepage": "https://github.com/caroltn/employee-managment-system#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
 }
